@@ -20,4 +20,4 @@ pip install python-dotenv
 pip install pywin32
 ```
 # Demo
-
+https://github.com/Abdul-Taha/Gemini-with-TTS-and-STT/assets/159376482/89c3b1ea-0867-4b2d-a3af-f54d3be07dc9
