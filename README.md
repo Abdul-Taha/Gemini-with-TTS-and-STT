@@ -3,7 +3,7 @@ This Python script allows you to communicate with Google's Gemini on the Python 
 This program is platform specific. This will only work on Windows.
 # Dependencies
 - Deepgram (Speech Recognition)
-- Google Generative AI (Chat Bot)
+- Google Generative AI (Chat Bot)  
 '''
 pip install deepgram-sdk==3.*
 '''
