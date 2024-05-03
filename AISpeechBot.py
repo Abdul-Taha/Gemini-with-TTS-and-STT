@@ -27,9 +27,9 @@ if True:
 def main():
     try:
 
-        genai.configure(api_key="AIzaSyBBdWjC5ZjKzM64MMzjMk2CpP-0146fzfU")
+        genai.configure(api_key="ENTER_API_KEY")
         model = genai.GenerativeModel('gemini-pro')
-        deepgram: DeepgramClient = DeepgramClient("2c6af525fdf7d448ad86d848ee85ca1160faddd9")
+        deepgram: DeepgramClient = DeepgramClient("ENTER_API_KEY")
 
         dg_connection = deepgram.listen.live.v("1")
 
